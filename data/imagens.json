@@ -1,5 +1,5 @@
 {
-  "SESSÃO DE APARADOR DE PELOS",
+  "SESSÃO": "APARADOR DE PELOS",
   "nome": "APARADOR PHILIPS MG3911/15",
   "200795": [
     "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200795_01.webp",
@@ -9,7 +9,7 @@
   ],
   "----------------------------------",
   
-  "SESSÃO ASPIRADOR DE PÓ"'
+  "SESSÃO": "ASPIRADOR DE PÓ",
   "nome": "ASP. B&D A6-B2 PO FILTRO HEPA",
   "190938": [
     "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/190938_01.webp",
@@ -39,7 +39,7 @@
   ],
   "------------------------------------",
   
-  "SESSÃO CELULARES",
+  "SESSÃO": "CELULARES",
   "nome": "CEL. SAMSUNG A566E A56 256GB 5G 6.7 CINZ",
   "199525": [
     "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/199525_01.webp",

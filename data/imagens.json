@@ -242,6 +242,10 @@
 
 
 
+
+
+
+  
   "SESSÃO": "GELADEIRA",
   "nome": "REFRIG. BRASTEMP BRM44HBBNA F.F 2P",
   "187439": [
@@ -342,5 +346,13 @@
   "200603": [
     "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200603_01.webp",
     "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200603_02.webp"
+  ],
+
+  "nome": "REFRIG. ELECTROLUX TF41 F.FREE TS",
+  "200698": [
+    "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200698_01.webp",
+    "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200698_02.webp",
+    "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200698_03.webp",
+    "https://raw.githubusercontent.com/ffsala2002-a11y/produtos-imagens/main/img-produtos/200698_04.webp"
   ]
 }
